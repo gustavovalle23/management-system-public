@@ -34,6 +34,7 @@ Further down the line, we aim to introduce:
 
 ## Contributors
 - Gustavo Valle [@gustavovalle](https://github.com/gustavovalle23)
+- Cesar Silva [@cesarsilvadev](https://github.com/cesarsilvadev)
 
 ## Issues and Feedback
 If you encounter any issues with the app or have any feedback, please feel free to [open an issue](https://github.com/gustavovalle23/management-system-public/issues). We welcome contributions and suggestions from the community.
